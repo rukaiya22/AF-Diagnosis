@@ -11,6 +11,8 @@
 
 ## Description
 
+**Experimental Data Source**: [MIMIC-PERFORM-AF Dataset](https://ppg-beats.readthedocs.io/en/latest/datasets/mimic_perform_af/)
+
 This repository contains the codebase for the MSc thesis project focused on diagnosing Atrial Fibrillation (AF) using physiological signals and deep learning algorithms. The signals used are:
 
 - Electrocardiogram (ECG)
